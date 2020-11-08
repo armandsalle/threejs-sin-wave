@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/style.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"style.c61ab535.css","sourceRoot":"..","sourcesContent":["body {\n    margin: 0;\n  }\n  canvas {\n    width: 100%;\n    height: 100%;\n  }\n  "]}
